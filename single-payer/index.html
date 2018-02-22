@@ -59,17 +59,17 @@
     <script type="text/javascript">
 
 
-  function updateHhm() {
-    household_size = $("#household_size").val()
-    if (household_size == 1) {
-      $("#hhm1").show()
-      $("#hhm2").hide()     
-    }
-    if (household_size == 2) {
-      $("#hhm1, #hhm2").show()    
-    }
+  // function updateHhm() {
+  //   household_size = $("#household_size").val()
+  //   if (household_size == 1) {
+  //     $("#hhm1").show()
+  //     $("#hhm2").hide()     
+  //   }
+  //   if (household_size == 2) {
+  //     $("#hhm1, #hhm2").show()    
+  //   }
 
-  }
+  // }
 
   function objectifyForm(formArray) {//serialize data function
     var returnArray = {};
@@ -270,7 +270,7 @@
 
               <div class="mdl-card__supporting-text">
                 <h4>Single-payer calculator</h4>
-                Dolore ex deserunt aute fugiat aute nulla ea sunt aliqua nisi cupidatat eu. Nostrud in laboris labore nisi amet do dolor eu fugiat consectetur elit cillum esse. Pariatur occaecat nisi laboris tempor laboris eiusmod qui id Lorem esse commodo in. Exercitation aute dolore deserunt culpa consequat elit labore incididunt elit anim.
+                This calculator helps you determine whether you could save money under a single-payer healthcare system. Example text here. Single payer example text. More example text. This calculator helps you determine whether you could save money under a single-payer healthcare system. Example text here. Single payer example text. More example text. This calculator helps you determine whether you could save money under a single-payer healthcare system. Example text here. Single payer example text. More example text. 
               </div>
 
               <div class="mdl-card__actions" id="loading">
@@ -350,7 +350,7 @@
 
                   <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
                   <input class="mdl-textfield__input" type="text" pattern="-?[0-9]*(\.[0-9]+)?" id="household_size" name="number_household" onchange="updateHhm()">
-                  <label class="mdl-textfield__label" for="household_size">Household size</label>
+                  <label class="mdl-textfield__label" for="household_size">Household size (only allows 1 currently)</label>
                   <span class="mdl-textfield__error">Input is not a number!</span>
                   </div>
 
@@ -396,47 +396,6 @@
 
                 </div>
 
-                <div class="mdl-card__actions in2 bg-g hhm mdl-card--border" id="hhm2">
-
-                    Member 2 <br>
-
-                    <!-- Age -->
-                    <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label age">
-                    <input class="mdl-textfield__input" type="text" pattern="-?[0-9]*(\.[0-9]+)?" id="hh2_age" name="hh2_age">
-                    <label class="mdl-textfield__label" for="hh2_age">Age</label>
-                    <span class="mdl-textfield__error">Input is not a number!</span>
-                    </div>
-                    <!-- Sex -->
-                    Sex:
-                    <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect sex" for="option-1">
-                      <input type="radio" id="option-1" class="mdl-radio__button" name="hh2_sex" value="Male" checked>
-                      <span class="mdl-radio__label">Male</span>
-                    </label>
-                    <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-2">
-                      <input type="radio" id="option-2" class="mdl-radio__button" name="hh2_sex" value="Female">
-                      <span class="mdl-radio__label">Female</span>
-                    </label>
-                    <!-- Medical condition -->
-                    <div class="mdl-selectfield mdl-js-selectfield mdl-selectfield--floating-label">
-                    <select class="mdl-selectfield__select" id="hh2_condition" name="hh2_condition">
-                      <option value="None"> None </option> 
-                      <option value="Asthma"> Asthma </option>
-                      <option value="Diabetes"> Diabetes </option>
-                      <option value="Opioid Disorder"> Opioid Disorder </option>
-                      <option value="Parkinson's Disease"> Parkinson's Disease </option>
-                    </select>
-                    <label class="mdl-selectfield__label" for="hh2_condition">Medical condition</label>
-                    </div>
-                    <!-- Out of network -->
-                    <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
-                    <input class="mdl-textfield__input" type="text" pattern="-?[0-9]*(\.[0-9]+)?" id="hh2_oon" name="hh2_oon">
-                    <label class="mdl-textfield__label" for="sample4">Out of network costs</label>
-                    <span class="mdl-textfield__error">Input is not a number!</span>
-                    </div>
-
-                </div>
-
-
                 <div class="mdl-card__actions in2 bg-g mdl-card--border" id="choose_single_payer">
 
 
@@ -449,7 +408,7 @@
                   </div>
 
 
-              <br><br><br>
+                <br><br><br>
                 </div>
 
 
