@@ -27,12 +27,12 @@ body {
   font-variant-numeric: normal;
   font-weight: 400;
   height: auto;
-  line-height: 28px;
+  line-height: 1.6;
   overflow-wrap: break-word;
-  text-size-adjust: 100%;
+/*  text-size-adjust: 100%;
   -moz-font-feature-settings: "kern", "liga", "clig", "calt";
   -ms-font-feature-settings: "kern", "liga", "clig", "calt";
-  -webkit-font-feature-settings: "kern", "liga", "clig", "calt";
+  -webkit-font-feature-settings: "kern", "liga", "clig", "calt";*/
 }
 
 p {
