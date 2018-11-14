@@ -1,0 +1,113 @@
+@import "furtive-print";
+@import "furtive-typescale";
+@import "furtive-responsive-utils";
+
+/*@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,800);*/
+/*@import url(https://fonts.googleapis.com/css?family=Merriweather);*/
+
+@import url(https://fonts.googleapis.com/css?family=Merriweather:400,400i,700,700i|Open+Sans:300,300i,400,400i,800);
+
+body {
+  color: #000;
+  margin: 4rem auto 1rem;
+  padding: 0px 20px;
+  max-width: 48rem;
+  text-align: left;
+
+  /* Base Font */
+  font-family: Merriweather, Georgia, serif;
+  font-feature-settings: "kern", "liga", "clig", "calt";
+  font-kerning: normal;
+  font-size: 16px;
+  font-stretch: 100%;
+  font-style: normal;
+  font-variant-caps: normal;
+  font-variant-east-asian: normal;
+  font-variant-ligatures: normal;
+  font-variant-numeric: normal;
+  font-weight: 400;
+  height: auto;
+  line-height: 28px;
+  overflow-wrap: break-word;
+  text-size-adjust: 100%;
+  -moz-font-feature-settings: "kern", "liga", "clig", "calt";
+  -ms-font-feature-settings: "kern", "liga", "clig", "calt";
+  -webkit-font-feature-settings: "kern", "liga", "clig", "calt";
+}
+
+p {
+    margin-bottom: 1.75rem;
+}
+
+img {
+  float: left;
+  /*border-radius: 50%;*/
+/*  height: 100px;*/
+  /*padding: 15px;*/
+  margin: 0 auto;
+  width: 100px;
+}
+
+a,
+a:visited {
+  color: #8c1515;
+}
+
+h1 { 
+  font-family: 'Open Sans', Helvetica, sans-serif;
+  font-weight: 800;
+  font-size: 45px;
+  padding-bottom: 1.75rem;
+  margin: 0 auto;
+ }
+
+ h2 {
+  font-family: 'Open Sans', Helvetica, sans-serif;
+  font-weight: 800;
+  font-size: 20px;
+/*  padding-bottom: 1.75rem;*/
+  /*margin: 0 auto;*/
+
+ }
+
+#htop {
+  height: 100px;
+  width: 500px;
+  margin: 0 auto;
+  padding-bottom: 15px;
+  /*border-bottom: 3px solid black;*/
+  vertical-align: middle;
+}
+
+#mid {
+  float: left;
+  width: 400px;
+  text-align: center;
+  margin: 30px 0;
+}
+
+a:hover,
+a:focus,
+a:active {
+  color: #2980b9;
+}
+
+pre {
+  background-color: #fafafa;
+  padding: 1rem;
+  text-align: left;
+}
+
+blockquote {
+  margin: 0;
+  border-left: 5px solid #7a7a7a;
+  font-style: italic;
+  padding: 1.33em;
+  text-align: left;
+}
+
+ul,
+ol,
+li {
+  text-align: left;
+}

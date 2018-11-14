@@ -1,9 +1,9 @@
-<p><html>
+<html>
 <head>
 <link rel="stylesheet" href="style.css">
 <title> Alex Goodell </title>
 </head>
-<body></p>
+<body>
 
 <!-- <div id="htop">
     <img src="imgs/headshot.jpg" /> 
@@ -11,21 +11,22 @@
     </div>
 </div> -->
 
-<h1>Alex Goodell</h1>
+# Alex Goodell 
 
-<p>Hi, I'm <em>Alex Goodell</em>. I'm a resident physician at <a href="http://stanfordhealthcare.org">Stanford Health Care</a>, focusing on general adult medicine and anesthesiology through Stanford's <a href="https://med.stanford.edu/anesthesia/education/residency/combined-med-anes.html#program-information">combined residency program</a>. I work at the Palo Alto Veteran's Affairs Hospital, Santa Clara Valley Medical Center, Stanford University Hospital, Lucile Packard Children's Hospital, and the Stanford Internal Medicine Clinic East.</p>
+Hi, I'm *Alex Goodell*. I'm a resident physician at [Stanford Health Care](http://stanfordhealthcare.org), focusing on general adult medicine and anesthesiology through Stanford's [combined residency program](https://med.stanford.edu/anesthesia/education/residency/combined-med-anes.html#program-information). I work at the Palo Alto Veteran's Affairs Hospital, Santa Clara Valley Medical Center, Stanford University Hospital, Lucile Packard Children's Hospital, and the Stanford Internal Medicine Clinic East.
 
-<p>I received my medical education at UC San Francisco and UC Berkeley through the <a href="http://sph.berkeley.edu/jmp/home">UCSF-UC Berkeley Joint Medical Program</a>, a five-year MD/MS program. Previously, I studied biology at the <a href="https://honors.uoregon.edu">Clark Honors College</a> at the University of Oregon.</p>
+I received my medical education at UC San Francisco and UC Berkeley through the [UCSF-UC Berkeley Joint Medical Program](http://sph.berkeley.edu/jmp/home), a five-year MD/MS program. Previously, I studied biology at the [Clark Honors College](https://honors.uoregon.edu) at the University of Oregon.
 
-<p>Outside of patient care, I'm interested in anesthesiology and critical care in developing countries, open-source technology, electronic medical records, infectious disease epidemiology, and human resources for health. I have volunteered as a researcher and photographer at <a href="http://villagehealthworks.org">Village Health Works</a>, a small community-run hospital in East Africa, based out of  Kigutu, Burundi and New York City, since 2009. Other projects of mine include a <a href="http://iatreum.com/">medical blog</a>, a <a href="http://globalhealthdecisions.org">health economics tool</a> and a differential diagnosis <a href="https://github.com/differential-med">study tool</a>.</p>
+Outside of patient care, I'm interested in anesthesiology and critical care in developing countries, open-source technology, electronic medical records, infectious disease epidemiology, and human resources for health. I have volunteered as a researcher and photographer at [Village Health Works](http://villagehealthworks.org), a small community-run hospital in East Africa, based out of  Kigutu, Burundi and New York City, since 2009. Other projects of mine include a [medical blog](http://iatreum.com/), a [health economics tool](http://globalhealthdecisions.org) and a differential diagnosis [study tool](https://github.com/differential-med).
 
-<h2>For patients</h2>
+## For patients
+If you are one of my patients at Stanford Primary Care or Stanford Internal Medicine clinics, please contact me through the [MyHealth](https://myhealth.stanfordhealthcare.org) secure messaging system or call the [Stanford Internal Medicine East](https://stanfordhealthcare.org/medical-clinics/internal-medicine.html) clinic. If you or your loved ones are hospitalized and under my care and you wish to contact me, call the Stanford Health Care operator at 650-723-4000 and ask to page me a message. For medical emergencies, please call 911. 
 
-<p>If you are one of my patients at Stanford Primary Care or Stanford Internal Medicine clinics, please contact me through the <a href="https://myhealth.stanfordhealthcare.org">MyHealth</a> secure messaging system or call the <a href="https://stanfordhealthcare.org/medical-clinics/internal-medicine.html">Stanford Internal Medicine East</a> clinic. If you or your loved ones are hospitalized and under my care and you wish to contact me, call the Stanford Health Care operator at 650-723-4000 and ask to page me a message. For medical emergencies, please call 911. </p>
+## Connect
 
-<h2>Connect</h2>
+[Email](mailto:agoodell@stanford.edu) | [Stanford profile](https://profiles.stanford.edu/alex) | [Twitter](http://twitter.com/alexgoodell) | [Scholar](https://scholar.google.com/citations?user=8w7tSkgAAAAJ&hl=en) | [GitHub](https://github.com/alexgoodell)
 
-<p><a href="mailto:agoodell@stanford.edu">Email</a> | <a href="https://profiles.stanford.edu/alex">Stanford profile</a> | <a href="http://twitter.com/alexgoodell">Twitter</a> | <a href="https://scholar.google.com/citations?user=8w7tSkgAAAAJ&amp;hl=en">Scholar</a> | <a href="https://github.com/alexgoodell">GitHub</a></p>
+
 
 <!-- ## Post-graduate training
 
@@ -50,5 +51,12 @@
 - Pemba, S., Macfarlane, S.B., Mpembeni, R., Goodell, A.J., and Kaaya, E.E. (2012). Tracking university graduates in the workforce: Information to improve education and health systems in Tanzania. J. Public Health Policy S202–S215. PMID: 23254844.
  -->
 
-<p></body>
-</html></p>
+
+
+
+
+
+
+
+</body>
+</html>
