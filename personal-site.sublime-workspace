@@ -81,13 +81,272 @@
 			}
 		},
 		{
-			"file": "public_html/start.html",
+			"file": "public_html/index.html",
 			"settings":
 			{
-				"buffer_size": 193595,
+				"buffer_size": 4932,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
-			}
+			},
+			"undo_stack":
+			[
+				[
+					7,
+					1,
+					"left_delete",
+					null,
+					"AQAAABcGAAAAAAAAFwYAAAAAAADxAAAAT3RoZXIgcHJvamVjdHMgb2YgbWluZSBpbmNsdWRlIGEgPGEgaHJlZj0iaHR0cDovL2lhdHJldW0uY29tLyI+bWVkaWNhbCBibG9nPC9hPiwgYSA8YSBocmVmPSJodHRwOi8vZ2xvYmFsaGVhbHRoZGVjaXNpb25zLm9yZyI+aGVhbHRoIGVjb25vbWljcyB0b29sPC9hPiBhbmQgYSBkaWZmZXJlbnRpYWwgZGlhZ25vc2lzIDxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9kaWZmZXJlbnRpYWwtbWVkIj5zdHVkeSB0b29sPC9hPg",
+					"AQAAAAAAAAABAAAAFwYAAAAAAAAIBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					2,
+					"left_delete",
+					null,
+					"AgAAABcGAAAAAAAAFwYAAAAAAAABAAAALhYGAAAAAAAAFgYAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAGAYAAAAAAAAYBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJIEAAAAAAAAkgQAAAAAAAASAAAAYW5kIGNyaXRpY2FsIGNhcmUg",
+					"AQAAAAAAAAABAAAAkgQAAAAAAACkBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					27,
+					1,
+					"left_delete",
+					null,
+					"AQAAANwEAAAAAAAA3AQAAAAAAAABAAAAcw",
+					"AQAAAAAAAAABAAAA3QQAAAAAAADdBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					29,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAANwEAAAAAAAA3QQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3AQAAAAAAADcBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					1,
+					"insert",
+					{
+						"characters": "usa"
+					},
+					"AwAAAN0EAAAAAAAA3gQAAAAAAAAAAAAA3gQAAAAAAADfBAAAAAAAAAAAAADfBAAAAAAAAOAEAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3QQAAAAAAADdBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					32,
+					3,
+					"left_delete",
+					null,
+					"AwAAAN8EAAAAAAAA3wQAAAAAAAABAAAAYd4EAAAAAAAA3gQAAAAAAAABAAAAc90EAAAAAAAA3QQAAAAAAAABAAAAdQ",
+					"AQAAAAAAAAABAAAA4AQAAAAAAADgBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					1,
+					"insert",
+					{
+						"characters": "usabilit"
+					},
+					"CAAAAN0EAAAAAAAA3gQAAAAAAAAAAAAA3gQAAAAAAADfBAAAAAAAAAAAAADfBAAAAAAAAOAEAAAAAAAAAAAAAOAEAAAAAAAA4QQAAAAAAAAAAAAA4QQAAAAAAADiBAAAAAAAAAAAAADiBAAAAAAAAOMEAAAAAAAAAAAAAOMEAAAAAAAA5AQAAAAAAAAAAAAA5AQAAAAAAADlBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3QQAAAAAAADdBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					35,
+					1,
+					"insert",
+					{
+						"characters": "y"
+					},
+					"AQAAAOUEAAAAAAAA5gQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5QQAAAAAAADlBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAOYEAAAAAAAA5wQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5gQAAAAAAADmBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					1,
+					"left_delete",
+					null,
+					"AQAAAOYEAAAAAAAA5gQAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAA5wQAAAAAAADnBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					40,
+					1,
+					"insert",
+					{
+						"characters": "kjkj"
+					},
+					"BAAAABIGAAAAAAAAEwYAAAAAAAAAAAAAEwYAAAAAAAAUBgAAAAAAAAAAAAAUBgAAAAAAABUGAAAAAAAAAAAAABUGAAAAAAAAFgYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEgYAAAAAAAASBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					41,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAABYGAAAAAAAAFwYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFgYAAAAAAAAWBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					42,
+					5,
+					"left_delete",
+					null,
+					"BQAAABYGAAAAAAAAFgYAAAAAAAABAAAAChUGAAAAAAAAFQYAAAAAAAABAAAAahQGAAAAAAAAFAYAAAAAAAABAAAAaxMGAAAAAAAAEwYAAAAAAAABAAAAahIGAAAAAAAAEgYAAAAAAAABAAAAaw",
+					"AQAAAAAAAAABAAAAFwYAAAAAAAAXBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					48,
+					1,
+					"left_delete",
+					null,
+					"AQAAAN0EAAAAAAAA3QQAAAAAAAAJAAAAdXNhYmlsaXR5",
+					"AQAAAAAAAAABAAAA3QQAAAAAAADmBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					50,
+					1,
+					"left_delete",
+					null,
+					"AQAAANwEAAAAAAAA3AQAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAA3QQAAAAAAADdBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					52,
+					1,
+					"insert",
+					{
+						"characters": "s"
+					},
+					"AQAAANwEAAAAAAAA3QQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3AQAAAAAAADcBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					56,
+					1,
+					"left_delete",
+					null,
+					"AQAAAN8EAAAAAAAA3wQAAAAAAAA/AAAAaW5mZWN0aW91cyBkaXNlYXNlIGVwaWRlbWlvbG9neSwgYW5kIGh1bWFuIHJlc291cmNlcyBmb3IgaGVhbHRo",
+					"AQAAAAAAAAABAAAA3wQAAAAAAAAeBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					58,
+					1,
+					"insert",
+					{
+						"characters": "and"
+					},
+					"AwAAAN8EAAAAAAAA4AQAAAAAAAAAAAAA4AQAAAAAAADhBAAAAAAAAAAAAADhBAAAAAAAAOIEAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3wQAAAAAAADfBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					59,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAOIEAAAAAAAA4wQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4gQAAAAAAADiBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					61,
+					1,
+					"insert",
+					{
+						"characters": "healthcare"
+					},
+					"CgAAAOMEAAAAAAAA5AQAAAAAAAAAAAAA5AQAAAAAAADlBAAAAAAAAAAAAADlBAAAAAAAAOYEAAAAAAAAAAAAAOYEAAAAAAAA5wQAAAAAAAAAAAAA5wQAAAAAAADoBAAAAAAAAAAAAADoBAAAAAAAAOkEAAAAAAAAAAAAAOkEAAAAAAAA6gQAAAAAAAAAAAAA6gQAAAAAAADrBAAAAAAAAAAAAADrBAAAAAAAAOwEAAAAAAAAAAAAAOwEAAAAAAAA7QQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4wQAAAAAAADjBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					62,
+					1,
+					"insert",
+					{
+						"characters": " design"
+					},
+					"BwAAAO0EAAAAAAAA7gQAAAAAAAAAAAAA7gQAAAAAAADvBAAAAAAAAAAAAADvBAAAAAAAAPAEAAAAAAAAAAAAAPAEAAAAAAAA8QQAAAAAAAAAAAAA8QQAAAAAAADyBAAAAAAAAAAAAADyBAAAAAAAAPMEAAAAAAAAAAAAAPMEAAAAAAAA9AQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA7QQAAAAAAADtBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					63,
+					7,
+					"left_delete",
+					null,
+					"BwAAAPMEAAAAAAAA8wQAAAAAAAABAAAAbvIEAAAAAAAA8gQAAAAAAAABAAAAZ/EEAAAAAAAA8QQAAAAAAAABAAAAafAEAAAAAAAA8AQAAAAAAAABAAAAc+8EAAAAAAAA7wQAAAAAAAABAAAAZe4EAAAAAAAA7gQAAAAAAAABAAAAZO0EAAAAAAAA7QQAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAA9AQAAAAAAAD0BAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					68,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAOMEAAAAAAAA5AQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4wQAAAAAAADjBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					70,
+					1,
+					"insert",
+					{
+						"characters": "design"
+					},
+					"BgAAAOQEAAAAAAAA5QQAAAAAAAAAAAAA5QQAAAAAAADmBAAAAAAAAAAAAADmBAAAAAAAAOcEAAAAAAAAAAAAAOcEAAAAAAAA6AQAAAAAAAAAAAAA6AQAAAAAAADpBAAAAAAAAAAAAADpBAAAAAAAAOoEAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5AQAAAAAAADkBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					71,
+					1,
+					"insert",
+					{
+						"characters": " for"
+					},
+					"BAAAAOoEAAAAAAAA6wQAAAAAAAAAAAAA6wQAAAAAAADsBAAAAAAAAAAAAADsBAAAAAAAAO0EAAAAAAAAAAAAAO0EAAAAAAAA7gQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA6gQAAAAAAADqBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					72,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAO4EAAAAAAAA7wQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA7gQAAAAAAADuBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					75,
+					1,
+					"left_delete",
+					null,
+					"AQAAAOMEAAAAAAAA4wQAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAA5AQAAAAAAADkBAAAAAAAAAAAAAAAAPC/"
+				]
+			]
 		},
 		{
 			"file": "public_html/style.css",
@@ -377,27 +636,27 @@
 				},
 				{
 					"buffer": 1,
-					"file": "public_html/start.html",
+					"file": "public_html/index.html",
 					"selected": true,
-					"semi_transient": true,
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 193595,
+						"buffer_size": 4932,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1530,
+								1530
 							]
 						],
 						"settings":
 						{
 							"git_gutter_is_enabled": true,
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
