@@ -977,8 +977,11 @@ figcaption {
   flex: 0 auto;
   justify-content: center;
   align-items: center;
-  margin-left: 333px;
+  margin-right: 33px;
+  padding-right: 0;
   display: flex;
+  position: absolute;
+  right: 4px;
 }
 
 .vectors-wrapper-99.vr22 {
@@ -1261,6 +1264,14 @@ figcaption {
     width: 100%;
   }
 
+  .vectors-wrapper-99 {
+    margin-left: 263px;
+  }
+
+  .vectors-wrapper-11 {
+    margin-top: -228px;
+  }
+
   .brand {
     padding-left: 0;
   }
@@ -1320,6 +1331,10 @@ figcaption {
 
   .heading {
     font-size: 24px;
+  }
+
+  .vectors-wrapper-99 {
+    margin-left: 110px;
   }
 
   .menu-button-2 {
